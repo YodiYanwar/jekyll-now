@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Hello Jekyll
+title: Bla Bla Bla
 ---
 
----
-### First Time i create blog with `jekyll`
+### First Time 
+i create blog with `jekyll`
